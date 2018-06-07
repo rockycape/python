@@ -2,9 +2,16 @@
 
 ### Windows10
 
-### AnacondaPython
-click on python.exe to open the interactive python shell
-type "exit() to exit the interactive python shell
+### AnacondaPython and running your first program helloworld.py
+1. download the windows version of AnacondaPython
+2. unzip
+3. create a "python" folder and copy the unzipped files there
+4. open a text editor and type "print (hello world)" and save the file as hellowworld.py
+5. select the helloworld.py and righclick and select open with then select file location
+6. navigate to python\Lib\idlelib and select idle.bat
+7. double click on helloworld.py which will open in idle
+8. click F5 key to run the program in the interactive python shell
+9. type "exit() to exit the interactive python shell
 
 
 ### SublimeText3 [setting-up-sublime-text-3-for-full-stack-python-development](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
