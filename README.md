@@ -1,3 +1,5 @@
+### [setting-up-sublime-text-3-for-full-stack-python-development](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
+
 ### python
 
 ### Windows10
