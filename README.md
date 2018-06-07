@@ -10,8 +10,12 @@
 5. select the helloworld.py and righclick and select open with then select file location
 6. navigate to python\Lib\idlelib and select idle.bat
 7. double click on helloworld.py which will open in idle
-8. click F5 key to run the program in the interactive python shell
-9. type "exit() to exit the interactive python shell
+8. click F5 key to run the program
+9. type "exit() to exit
+
+NB. Pin idle to the taskbar
+1. type idle into cortana
+2. right click and select add to taskbar
 
 
 ### SublimeText3 [setting-up-sublime-text-3-for-full-stack-python-development](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
