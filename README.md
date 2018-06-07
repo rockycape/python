@@ -1,5 +1,3 @@
-### [setting-up-sublime-text-3-for-full-stack-python-development](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
-
 ### python [python-first-steps](realpython.com/learn/python-first-steps/)
 
 ### Windows10
@@ -9,7 +7,7 @@ click on python.exe to open the interactive python shell
 type "exit() to exit the interactive python shell
 
 
-### SublimeText3
+### SublimeText3 ### [setting-up-sublime-text-3-for-full-stack-python-development](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
 
   [DOSKEY](https://en.wikipedia.org/wiki/DOSKEY)   doskey subl="C:\Program Files\Sublime Text 3\sublime_text.exe" $*
 
