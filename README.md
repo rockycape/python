@@ -1,7 +1,9 @@
-# python
+### python
 
-Windowows 10
-SublimeText3
+### Windowows 10
+
+### SublimeText3
+
   [DOSKEY](https://en.wikipedia.org/wiki/DOSKEY)   doskey subl="C:\Program Files\Sublime Text 3\sublime_text.exe" $*
 
   # Open the current directory.
