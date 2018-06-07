@@ -1,6 +1,6 @@
 ### python
 
-### Windowows 10
+### Windows10
 
 ### SublimeText3
 
@@ -19,4 +19,4 @@
 
   $ subl "~/Documents/test/my test file.txt"
   
-### Anaconda Python
+### AnacondaPython
