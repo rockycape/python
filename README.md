@@ -24,4 +24,6 @@ type "exit() to exit the interactive python shell
 
   $ subl "~/Documents/test/my test file.txt"
   
+### Linting 
 
+Lint-like tools are especially useful for interpreted languages like JavaScript and Python. Because such languages lack a compiling phase that displays a list of errors prior to execution, the tools can also be used as simple debuggers for common errors (e.g. syntactic discrepancies) as well as hard-to-find errors such as heisenbugs (drawing attention to suspicious code as "possible errors")
