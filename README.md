@@ -3,9 +3,9 @@
 ### Windows10
 
 ### AnacondaPython and running your first program helloworld.py
-1. download the windows version of AnacondaPython
-2. unzip
-3. create a "python" folder and copy the unzipped files there
+1. download the windows version of AnacondaPython from [www.anaconda.com/download/](https://www.anaconda.com/download/)
+2. open the installer file location in windows explorer
+3. double click the installer file to install
 4. open a text editor and type "print (hello world)" and save the file as hellowworld.py
 5. select the helloworld.py and righclick and select open with then select file location
 6. navigate to python\Lib\idlelib and select idle.bat
