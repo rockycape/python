@@ -13,9 +13,7 @@
 8. click F5 key to run the program
 9. type "exit() to exit
 
-NB. Pin idle to the taskbar
-1. type idle into cortana
-2. right click and select add to taskbar
+[How to Open and Execute Python (.py) Files in Windows 10](https://www.youtube.com/watch?v=VyTfGS1JCpY)
 
 
 ### SublimeText3 [setting-up-sublime-text-3-for-full-stack-python-development](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
