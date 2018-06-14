@@ -41,3 +41,11 @@ Lint-like tools are especially useful for interpreted languages like JavaScript 
 PEP 8 – Style Guide for Python Code is the style guide for programming Python code. Study this.
 
 One idiom that trips up many new Python developers is indentation. Python uses indentation (4 spaces) to logically organize code into sections called [code blocks](http://en.wikipedia.org/wiki/Block_(programming). A code block starts with an indent and ends with a dedent (un-indent?). Incorrect indentation will generate an error in Python preventing your code from executing. And this is exactly where having a properly setup code editor pays off, since it will catch indentation errors and highlight them for you. You should also use spaces instead of tabs when indenting. Most editors will allow you to convert tabs to spaces, so that when you tab it is actually applying 4 spaces.
+
+### Doing mathmatics with python
+
+[Doing math with python - Youtube Book Review](https://www.youtube.com/watch?v=YJdspl-yZXg)
+
+[how to plot y=1/x graph](https://stackoverflow.com/questions/44041021/how-to-plot-y-1-x-as-a-single-graph?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+
+
